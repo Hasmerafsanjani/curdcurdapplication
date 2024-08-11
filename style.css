@@ -1,0 +1,9 @@
+div{
+    border: 1px solid blue;
+    display: flex;
+    gap: 20px;
+}
+#Myapidata{
+display: flex;
+flex-direction: column;
+}
